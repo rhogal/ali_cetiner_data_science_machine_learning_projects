@@ -1,1 +1,1 @@
-# ali_cetiner_projects
+# ali_cetiner_data_science_machine_learning_projects
